@@ -1,6 +1,5 @@
 # D1 - Cloudflare bindings for Laravel 12
 
- [![StyleCI](https://github.styleci.io/repos/845491307/shield?branch=main)](https://github.styleci.io/repos/845491307)
 ![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/zyna/l1/php)
 [![Latest Stable Version](https://poser.pugx.org/zyna/l1/v/stable)](https://packagist.org/packages/zyna/l1)
 [![Total Downloads](https://poser.pugx.org/zyna/l1/downloads)](https://packagist.org/packages/zyna/l1)
