@@ -1,11 +1,11 @@
 # D1 - Cloudflare bindings for Laravel 12
 
-<!-- [![StyleCI](https://github.styleci.io/repos/845491307/shield?branch=main)](https://github.styleci.io/repos/845491307)
-![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/zyna/cloudflare-d1-database/php)
-[![Latest Stable Version](https://poser.pugx.org/zyna/cloudflare-d1-database/v/stable)](https://packagist.org/packages/zyna/cloudflare-d1-database)
-[![Total Downloads](https://poser.pugx.org/zyna/cloudflare-d1-database/downloads)](https://packagist.org/packages/zyna/cloudflare-d1-database)
-[![Monthly Downloads](https://poser.pugx.org/zyna/cloudflare-d1-database/d/monthly)](https://packagist.org/packages/zyna/cloudflare-d1-database)
-[![License](https://poser.pugx.org/zyna/cloudflare-d1-database/license)](https://packagist.org/packages/zyna/cloudflare-d1-database) -->
+ [![StyleCI](https://github.styleci.io/repos/845491307/shield?branch=main)](https://github.styleci.io/repos/845491307)
+![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/zyna/l1/php)
+[![Latest Stable Version](https://poser.pugx.org/zyna/l1/v/stable)](https://packagist.org/packages/zyna/l1)
+[![Total Downloads](https://poser.pugx.org/zyna/l1/downloads)](https://packagist.org/packages/zyna/l1)
+[![Monthly Downloads](https://poser.pugx.org/zyna/l1/d/monthly)](https://packagist.org/packages/zyna/l1)
+[![License](https://poser.pugx.org/zyna/l1/license)](https://packagist.org/packages/zyna/l1)
 
  #### This is a forked package from [renoki-co](https://packagist.org/packages/renoki-co/l1) and [Ntanduy](https://packagist.org/packages/ntanduy/cloudflare-d1-database), I plan to maintain this to future laravel versions. 
  #### a star ⭐⭐⭐⭐ on [GitHub](https://github.com/sencin/l1) would be enough as a motivation and encouragement for me to continue maintaining this package. 
