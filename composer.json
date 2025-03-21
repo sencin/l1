@@ -1,0 +1,67 @@
+{
+    "name": "zyna/l1",
+    "description": "This is a forked package from Ntanduy and renoki-co, I plan to maintain this to future laravel version. a Star ⭐⭐⭐⭐ would be enough as a motivation and encouragement for me to continue maintaining this package",
+    "keywords": [
+        "Zyna",
+        "laravel",
+        "Cloudflare",
+        "D1",
+        "Database"
+    ],
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/sencin/d1",
+    "authors": [
+        {
+            "name": "Zyna",
+            "email": "example@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "doctrine/dbal": "^3.0|^4.0",
+        "illuminate/cache": "*",
+        "illuminate/contracts": "*",
+        "illuminate/database": "*",
+        "illuminate/http": "*",
+        "saloonphp/laravel-http-sender": "^2.0|^3.0",
+        "saloonphp/laravel-plugin": "^3.5",
+        "saloonphp/saloon": "^3.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zyna\\CFD1\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zyna\\CFD1\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "pestphp/pest": "^2.35",
+        "orchestra/testbench": "^9.3",
+        "mockery/mockery": "^1.6",
+        "laravel/legacy-factories": "^1.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        },
+        "sort-packages": true
+    },
+    "suggest": {
+        "ext-pdo": "Extending the PDO driver for Cloudflare D1 is requireds."
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Zyna\\CFD1\\D1ServiceProvider"
+            ]
+        }
+    }
+}
