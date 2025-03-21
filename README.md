@@ -8,7 +8,7 @@
 [![License](https://poser.pugx.org/zyna/cloudflare-d1-database/license)](https://packagist.org/packages/zyna/cloudflare-d1-database) -->
 
  #### This is a forked package from [renoki-co](https://packagist.org/packages/renoki-co/l1) and [Ntanduy](https://packagist.org/packages/ntanduy/cloudflare-d1-database), I plan to maintain this to future laravel versions. 
- #### a star ⭐⭐⭐⭐ on github would be enough as a motivation and encouragement for me to continue maintaining this package. 
+ #### a star ⭐⭐⭐⭐ on [GitHub](https://github.com/sencin/l1) would be enough as a motivation and encouragement for me to continue maintaining this package. 
    
 Integrate Cloudflare bindings into your PHP/Laravel application.
 
